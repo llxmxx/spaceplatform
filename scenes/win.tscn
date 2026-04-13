@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://cs826pdm53duw"]
+
+[node name="win" type="Control" unique_id=639921947]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 625.0
+offset_bottom = 288.0
+
+[node name="Label" type="Label" parent="." unique_id=1325168779]
+visible = false
+layout_mode = 0
+offset_left = -3.0
+offset_top = 4.0
+offset_right = 612.0
+offset_bottom = 285.0
+theme_override_colors/font_color = Color(1, 0.13155788, 0.37622446, 1)
+theme_override_font_sizes/font_size = 100
+text = "YOU WIN!!"
+horizontal_alignment = 1
+vertical_alignment = 1
